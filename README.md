@@ -1,4 +1,4 @@
-# LearingExperience
+# LearningExperience
 Pengalaman Belajar dengan Dicoding
 
 15 Februari 2022
